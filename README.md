@@ -1,6 +1,6 @@
 # 仮設論文置き場
 
-- [x] <span style ="font-size:300%;">**Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship (WWW 2018)**</span>  
+- [x] <span style ="font-size:200%;font-weight:bold">Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship (WWW 2018)</span>  
    [[paper]](https://dl.acm.org/doi/abs/10.1145/3178876.3186139)  
    - 対立する党派ではエコーチェンバーが発生する．党の派閥を超えて意見を持つ超党派は代償を支払う．また，党派の意見を持ちながらも別派閥の意見を持つゲートキーパーが存在する．
 ***
