@@ -32,3 +32,33 @@
    [[paper]](https://www.sciencedirect.com/science/article/pii/S0378873318303368)
 
 ***
+
+- [ ] **Quantifying echo chamber effects in information spreading over political communication networks**
+   [[paper]](https://epjds.epj.org/articles/epjdata/abs/2019/01/13688_2019_Article_213/13688_2019_Article_213.html)
+
+***
+
+- [ ] **Link Prediction with Graph Neural Networks and Knowledge Extraction**
+   [[paper]](http://cs230.stanford.edu/projects_spring_2020/reports/38854344.pdf)
+
+***
+
+- [ ] ****
+   [[paper]]()
+
+***
+
+https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11047609&googleIPSandBox=false&mark=0&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true
+https://dl.acm.org/doi/abs/10.1145/3470496.3527444
+https://dl.acm.org/doi/abs/10.1145/3404835.3463028
+https://dl.acm.org/doi/abs/10.1145/3341161.3342859
+https://ieeexplore.ieee.org/abstract/document/9534136
+https://paperswithcode.com/paper/you-too-brutus-trapping-hateful-users-in
+https://paperswithcode.com/paper/ranking-based-group-identification-via
+https://paperswithcode.com/paper/understanding-echo-chambers-in-e-commerce
+https://arxiv.org/pdf/2206.14501v2.pdf
+https://paperswithcode.com/search?q_meta=&q_type=&q=gnn+social+media
+https://arxiv.org/abs/1906.09076
+https://www.mdpi.com/2076-3417/11/12/5390
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181821
+https://ieeexplore.ieee.org/abstract/document/8508809
