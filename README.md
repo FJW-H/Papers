@@ -43,22 +43,52 @@
 
 ***
 
-- [ ] ****
-   [[paper]]()
+- [ ] **You too Brutus! Trapping Hateful Users in Social Media: Challenges, Solutions & Insights**
+   [[paper]](https://paperswithcode.com/paper/you-too-brutus-trapping-hateful-users-in)
 
 ***
 
-https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11047609&googleIPSandBox=false&mark=0&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true
-https://dl.acm.org/doi/abs/10.1145/3470496.3527444
-https://dl.acm.org/doi/abs/10.1145/3404835.3463028
-https://dl.acm.org/doi/abs/10.1145/3341161.3342859
-https://ieeexplore.ieee.org/abstract/document/9534136
-https://paperswithcode.com/paper/you-too-brutus-trapping-hateful-users-in
-https://paperswithcode.com/paper/ranking-based-group-identification-via
-https://paperswithcode.com/paper/understanding-echo-chambers-in-e-commerce
-https://arxiv.org/pdf/2206.14501v2.pdf
-https://paperswithcode.com/search?q_meta=&q_type=&q=gnn+social+media
-https://arxiv.org/abs/1906.09076
-https://www.mdpi.com/2076-3417/11/12/5390
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181821
-https://ieeexplore.ieee.org/abstract/document/8508809
+- [ ] **Ranking-based Group Identification via Factorized Attention on Social Tripartite Graph**
+   [[paper]](https://paperswithcode.com/paper/ranking-based-group-identification-via)
+
+***
+
+- [ ] **Inside the Echo Chamber: Disentangling network dynamics from polarization**
+   [[paper]](https://arxiv.org/abs/1906.09076)
+
+***
+
+- [ ] **Toward a Standard Approach for Echo Chamber Detection: Reddit Case Study**
+   [[paper]](https://www.mdpi.com/2076-3417/11/12/5390)
+
+***
+
+- [ ] **The echo chamber effect on social media**
+   [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2023301118)
+
+***
+
+- [ ] **ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System**
+   [[paper]](https://dl.acm.org/doi/abs/10.1145/3479859)
+
+***
+
+- [ ] **Echo chamber detection and analysis**
+   [[paper]](https://link.springer.com/article/10.1007/s13278-021-00779-3)
+
+***
+
+- [ ] **Out of the Echo Chamber: Detecting Countering Debate Speeches**
+   [[paper]](https://arxiv.org/abs/2005.01157)
+
+***
+
+- [ ] **The Dual Echo Chamber: Modeling Social Media Polarization for Interventional Recommending**
+   [[paper]](https://dl.acm.org/doi/abs/10.1145/3460231.3474261)
+
+***
+
+- [ ] **https://www.mdpi.com/2073-431X/12/3/57**
+   [[paper]](https://www.mdpi.com/2073-431X/12/3/57)
+
+***
