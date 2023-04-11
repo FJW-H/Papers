@@ -88,7 +88,7 @@
 
 ***
 
-- [ ] **https://www.mdpi.com/2073-431X/12/3/57**
+- [ ] **How to Find Orchestrated Trolls? A Case Study on Identifying Polarized Twitter Echo Chambers**
    [[paper]](https://www.mdpi.com/2073-431X/12/3/57)
 
 ***
