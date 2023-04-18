@@ -92,3 +92,8 @@
    [[paper]](https://www.mdpi.com/2073-431X/12/3/57)
 
 ***
+
+- [ ] **A text and GNN based controversy detection method on social media**
+   [[paper]](https://link.springer.com/article/10.1007/s11280-022-01116-0)
+
+***
