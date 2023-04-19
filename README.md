@@ -2,20 +2,17 @@
 
 - [x] **Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship (WWW 2018)**
    [[paper]](https://dl.acm.org/doi/abs/10.1145/3178876.3186139)  
-   - 対立する党派ではエコーチェンバーが発生する．党の派閥を超えて意見を持つ超党派は代償を支払う．また，党派の意見を持ちながらも別派閥の意見を持つゲートキーパーが存在する．
+   
 ***
    
 - [x] **Link recommendation algorithms and dynamics of polarization in online social networks (National Academy of Sciences 2021)**
    [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2102141118)
-   - SNSにて用いられる構造的類似性に基づく推薦（Peple You May Knowなどのリンク推薦）の二極化における影響について，構造的に類似しているノードとのリンクを優先的に確立．
-   - ネットワークがグループ外の接触に対して意見を収束，分極させるノードで構成されている場合，構造的に異なるノードを接続すると中庸意見が強化される？
+   
 ***
 
 - [x] **Reducing Controversy by Connecting Opposing Views (WSDM 2017)**
    [[paper]](https://dl.acm.org/doi/abs/10.1145/3018661.3018703)
-   -	対立する議論をRTグラフで表現し，エッジ推薦によりグラフの論争スコアを下げることを目標とする．
-   -	ランダムウォークによりエッジ間の意見の相違を算出している．推薦はエッジ間の相違による意見受容率より指定．
-   -	obamacare, guncontrolなどのTwitterデータセットを用いて実験．
+
 ***
 
 - [ ] **How to Find Orchestrated Trolls? A Case Study on Identifying Polarized Twitter Echo Chambers (Computers 2023)**
@@ -68,22 +65,22 @@
 
 ***
 
-- [ ] **ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System**
+- [x] **ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System**
    [[paper]](https://dl.acm.org/doi/abs/10.1145/3479859)
 
 ***
 
-- [ ] **Echo chamber detection and analysis**
+- [x] **Echo chamber detection and analysis**
    [[paper]](https://link.springer.com/article/10.1007/s13278-021-00779-3)
 
 ***
 
-- [ ] **Out of the Echo Chamber: Detecting Countering Debate Speeches**
+- [x] **Out of the Echo Chamber: Detecting Countering Debate Speeches**
    [[paper]](https://arxiv.org/abs/2005.01157)
 
 ***
 
-- [ ] **The Dual Echo Chamber: Modeling Social Media Polarization for Interventional Recommending**
+- [x] **The Dual Echo Chamber: Modeling Social Media Polarization for Interventional Recommending**
    [[paper]](https://dl.acm.org/doi/abs/10.1145/3460231.3474261)
 
 ***
@@ -93,7 +90,12 @@
 
 ***
 
-- [ ] **A text and GNN based controversy detection method on social media**
+- [x] **A text and GNN based controversy detection method on social media**
    [[paper]](https://link.springer.com/article/10.1007/s11280-022-01116-0)
+
+***
+
+- [ ] **Content-based echo chamber detection on social media platforms**
+   [[paper]](https://www.researchgate.net/publication/338616548_Content-based_echo_chamber_detection_on_social_media_platforms)
 
 ***
