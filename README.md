@@ -1,5 +1,16 @@
 # 仮設論文置き場
 
+## Twitter推薦手法
+***
+
+- [ ] ****
+   [[paper]]()
+
+***
+
+## エコーチェンバー検出関連（未分類）
+***
+
 - [x] **Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship (WWW 2018)**
    [[paper]](https://dl.acm.org/doi/abs/10.1145/3178876.3186139)  
    
