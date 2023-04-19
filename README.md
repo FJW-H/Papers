@@ -1,31 +1,29 @@
 # 仮設論文置き場
-
 ## Twitter推薦手法
 
-***
 - [ ] **コピペ用**  
    [[paper]]()
    [[google scholar]]()
-   
-***
+ ***
+
 - [ ] **Link recommendation algorithms and dynamics of polarization in online social networks**  
    [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2102141118)
    [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=%22Link+recommendation+algorithms+and+dynamics+of+polarization+in+online+social+networks%22&btnG=)
-
 ***
+
 - [ ] **Reducing Controversy by Connecting Opposing Views**  
    [[paper]](https://dl.acm.org/doi/abs/10.1145/3018661.3018703)
    [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=%22Reducing+Controversy+by+Connecting+Opposing+Views%22&btnG=)
-
 ***
+
 - [ ] **ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System**  
    [[paper]](https://dl.acm.org/doi/abs/10.1145/3479859)
    [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=ChamberBreaker%3A+Mitigating+the+Echo+Chamber+Effect+and+Supporting+Information+Hygiene+through+a+Gamified+Inoculation+System&btnG=)
+***
 
 
 
 ## エコーチェンバー検出関連（未分類）
-***
 
 - [x] **Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship (WWW 2018)**
    [[paper]](https://dl.acm.org/doi/abs/10.1145/3178876.3186139)  
