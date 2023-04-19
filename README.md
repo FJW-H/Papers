@@ -9,6 +9,7 @@
 - [ ] **Link recommendation algorithms and dynamics of polarization in online social networks**  
    [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2102141118)
    [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=%22Link+recommendation+algorithms+and+dynamics+of+polarization+in+online+social+networks%22&btnG=)
+   [[code]](https://github.com/fp-santos/link-recommendation-polarization)
 ***
 
 - [ ] **Reducing Controversy by Connecting Opposing Views**  
