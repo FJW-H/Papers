@@ -5,6 +5,16 @@
    [[paper]]()
    [[google scholar]]()
  ***
+ 
+ - [ ] **Tweets Classification and Sentiment Analysis for Personalized Tweets Recommendation**  
+   [[paper]](https://www.hindawi.com/journals/complexity/2020/8892552/)
+   [[google scholar]]()
+ ***
+ 
+ - [ ] **The effect of Collaborative-Filtering based Recommendation Algorithms on Opinion Polarization**  
+   [[paper]](https://arxiv.org/abs/2303.13270)
+   [[google scholar]]()
+ ***
 
 - [ ] **Link recommendation algorithms and dynamics of polarization in online social networks**  
    [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2102141118)
