@@ -1,10 +1,5 @@
 # 論文置き場
 ## Twitter推薦手法
-
-- [ ] **コピペ用**  
-   [[paper]]()
-   [[google scholar]]()
- ***
  
  - [ ] **Tweets Classification and Sentiment Analysis for Personalized Tweets Recommendation**  
    [[paper]](https://www.hindawi.com/journals/complexity/2020/8892552/)
@@ -135,3 +130,8 @@
    [[paper]](https://www.researchgate.net/publication/338616548_Content-based_echo_chamber_detection_on_social_media_platforms)
 
 ***
+
+- [ ] **コピペ用**  
+   [[paper]]()
+   [[google scholar]]()
+ ***
