@@ -3,20 +3,20 @@
  
  - [ ] **The effect of Collaborative-Filtering based Recommendation Algorithms on Opinion Polarization**  
    [[paper]](https://arxiv.org/abs/2303.13270)
-   [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=The+effect+of+Collaborative-Filtering+based+Recommendation+Algorithms+on+Opinion+Polarization&btnG=)
+   [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=The+effect+of+Collaborative-Filtering+based+Recommendation+Algorithms+on+Opinion+Polarization&btnG=)  
    ユーザ間協調フィルタリングアルゴリズムにさらされたグループの動作がどのような影響を受けるのか．モデルの位相図を導出し，無秩序，合意，極性という３つの異なる段階を観察した．無秩序期と極性期の境界にはフィルターバブルに陥ることなく推薦がパーソナライズされる領域があることが確認された．
  ***
 
 - [ ] **Link recommendation algorithms and dynamics of polarization in online social networks**  
    [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2102141118)
    [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=%22Link+recommendation+algorithms+and+dynamics+of+polarization+in+online+social+networks%22&btnG=)
-   [[code]](https://github.com/fp-santos/link-recommendation-polarization)
+   [[code]](https://github.com/fp-santos/link-recommendation-polarization)  
    	SNSにて用いられる構造的類似性に基づく推薦（People You May Knowなどのリンク推薦）の二極化における影響について，構造的に類似しているノードとのリンクを優先的に確立．ネットワークがグループ外の接触に対して意見を収束，分極させるノードで構成されている場合，構造的に異なるノードを接続すると中庸意見が強化される．
 ***
 
 - [ ] **Reducing Controversy by Connecting Opposing Views**  
    [[paper]](https://dl.acm.org/doi/abs/10.1145/3018661.3018703)
-   [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=%22Reducing+Controversy+by+Connecting+Opposing+Views%22&btnG=)
+   [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=%22Reducing+Controversy+by+Connecting+Opposing+Views%22&btnG=)  
    対立する議論をRTグラフで表現し，エッジ推薦によりグラフの論争スコアを下げることを目標とする．ランダムウォークによりエッジ間の意見の相違を算出している．推薦はエッジ間の相違による意見受容率より指定．obamacare, guncontrolなどのTwitterデータセットを用いて実験.
 ***
 
@@ -103,7 +103,7 @@
 ***
 
 - [ ] **Echo chamber detection and analysis**
-   [[paper]](https://link.springer.com/article/10.1007/s13278-021-00779-3)
+   [[paper]](https://link.springer.com/article/10.1007/s13278-021-00779-3)  
 ・メンション，返信での会話グラフ作成．（フォロー，RTによるグラフより明示的な関与）
 ・VADERで感情，LDA(Lataent Dirichlet Allocation)でトピックの類似度を算出し重みを追加
 ・METISによるグラフ分割
@@ -117,7 +117,7 @@
 ***
 
 - [ ] **The Dual Echo Chamber: Modeling Social Media Polarization for Interventional Recommending**
-   [[paper]](https://dl.acm.org/doi/abs/10.1145/3460231.3474261)
+   [[paper]](https://dl.acm.org/doi/abs/10.1145/3460231.3474261)  
 ・認識的なエコーチェンバーとイデオロギー的なエコーチェンバーで対処の方法が異なる
 ・認識的なエコーチェンバーはランダムに選ばれたユーザであっても障壁を小さくすることができる．イデオロギー的なエコーチェンバーでは，たとえ個人的な好みの情報であっても外部からの場合は受け入れられ難い．
 
