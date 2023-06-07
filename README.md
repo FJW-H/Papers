@@ -44,18 +44,18 @@
 ***
 
 - [ ] **Reducing Controversy by Connecting Opposing Views (WSDM 2017)**
-   [[paper]](https://dl.acm.org/doi/abs/10.1145/3018661.3018703)
-
+   [[paper]](https://dl.acm.org/doi/abs/10.1145/3018661.3018703)  
+   物議を醸す問題に関する議論を支持グラフで表し，このグラフ上で問題をエッジ推奨問題として投影する．ランダムウォークに基づいて算出された論争スコアを減らすような推薦を行うことによりエコーチェンバーを軽減する．また，推奨されたエッジの受け入れ確立を航路する．
 ***
 
 - [ ] **How to Find Orchestrated Trolls? A Case Study on Identifying Polarized Twitter Echo Chambers (Computers 2023)**
-   [[paper]](https://www.mdpi.com/2073-431X/12/3/57)
-
+   [[paper]](https://www.mdpi.com/2073-431X/12/3/57)  
+   ドイツ語圏のTwitterにおけるリツイートに着目し，greedy modularity maximization and HITS metricが最も有効であることを発見した．結果，仕組まれたアカウントによるエコーチェンバー（コミュニティ）が発生しており，通常のコミュニケーションを示すコミュニティとは異なっていた．
 ***
 
 - [ ] **Using sentiment analysis to predict opinion inversion inTweets of political communication (Scientific reports 2021)**
-   [[paper]](https://link.springer.com/content/pdf/10.1038/s41598-021-86510-w.pdf)
-
+   [[paper]](https://link.springer.com/content/pdf/10.1038/s41598-021-86510-w.pdf)  
+一部のユーザーがメッセージの内容を反転させてから発信し、元の著者の意見とは対照的な見解を広める可能性があることが注目されている．(Opinion INversion O.I.)．7147件の引用と引用元のペアに自然言語処理機能とユーザ属性に基づくRandom Forestモデルを用いて，引用元がO.I.を受けるかどうかをROC-AUC0.83で予測することができた．
 ***
 
 - [ ] **Modeling influence on posting engagement in online social networks: Beyond neighborhood effects (Social Networks 2019)**
