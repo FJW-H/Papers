@@ -106,7 +106,7 @@
 ***
 
 - [x] **How to Find Orchestrated Trolls? A Case Study on Identifying Polarized Twitter Echo Chambers**  
-   [[paper]](https://www.mdpi.com/2073-431X/12/3/57)  
+   [[paper]](https://www.mdpi.com/2073-431X/12/3/57)
    [[dataset]](https://research.ibm.com/haifa/dept/vst/debating_data.shtml#Debate%20Speech%20Analysis)  
    記事の読者がエコーチェンバーにより反対意見にアクセスできないことが懸念されている．そこで特定のテキスト内で行われた議論に最も効果的に反論する記事を検出する．
 ***
