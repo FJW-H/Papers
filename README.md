@@ -34,12 +34,13 @@
 
 - [ ] **Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship (WWW 2018)**
    [[paper]](https://dl.acm.org/doi/abs/10.1145/3178876.3186139)  
-   
+   エコー チェンバーを橋渡ししようとするユーザーが、多様な傾向を持つコンテンツを共有することで、ネットワークの中心性とコンテンツの評価という点で「超党派の代償」を支払わなければならない．  
+   また，ネットワーク的には対立する2つのコミュニティの中間に位置するが，コンテンツ的には一方のコミュニティ側に位置するゲートキーパーが存在している．
 ***
    
 - [ ] **Link recommendation algorithms and dynamics of polarization in online social networks (National Academy of Sciences 2021)**
-   [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2102141118)
-   
+   [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2102141118)  
+   SNSにて用いられる構造的類似性に基づく推薦（People You May Knowなどのリンク推薦）の二極化における影響について，構造的に類似しているノードとのリンクを優先的に確立．ネットワークがグループ外の接触に対して意見を収束，分極させるノードで構成されている場合，構造的に異なるノードを接続すると中庸意見が強化される．   
 ***
 
 - [ ] **Reducing Controversy by Connecting Opposing Views (WSDM 2017)**
