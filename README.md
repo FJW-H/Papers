@@ -64,18 +64,18 @@
 ***
 
 - [ ] **Quantifying echo chamber effects in information spreading over political communication networks**
-   [[paper]](https://epjds.epj.org/articles/epjdata/abs/2019/01/13688_2019_Article_213/13688_2019_Article_213.html)
-
+   [[paper]](https://epjds.epj.org/articles/epjdata/abs/2019/01/13688_2019_Article_213/13688_2019_Article_213.html)  
+   
 ***
 
 - [ ] **Link Prediction with Graph Neural Networks and Knowledge Extraction**
-   [[paper]](http://cs230.stanford.edu/projects_spring_2020/reports/38854344.pdf)
-
+   [[paper]](http://cs230.stanford.edu/projects_spring_2020/reports/38854344.pdf)  
+   近年、グラフ・ニューラル・ネットワーク（GNN）の進歩により、リンク予測はニューラル・スタイルに移行している。多くのGNN層はリンク予測タスクに直接適用することができるようになりました。しかし、グラフ構造とグラフ・ニューラル・ネットワークの制約により、ニューラル・スタイルのリンク予測の性能に悪影響が出ることがある。これらの問題に対処するために、我々は、抽出された知識でGNNを暗黙的にガイドする新しいアプローチを提案する。
 ***
 
 - [ ] **You too Brutus! Trapping Hateful Users in Social Media: Challenges, Solutions & Insights**
-   [[paper]](https://paperswithcode.com/paper/you-too-brutus-trapping-hateful-users-in)
-
+   [[paper]](https://paperswithcode.com/paper/you-too-brutus-trapping-hateful-users-in)  
+   Solution & Insights ヘイトスピーチ検出に関する現在の手法では憎悪に満ちた投稿を見つけ，その後憎悪に満ちたユーザを特定する．しかし，この方法はユーザ間の社会的つながりを無視したものである．本論文ではテキストベース，グラフベース，その両方を利用するGNNを用いた半教師付き手法まで様々なモデルを調査する．
 ***
 
 - [ ] **Ranking-based Group Identification via Factorized Attention on Social Tripartite Graph**
@@ -84,8 +84,8 @@
 ***
 
 - [ ] **Inside the Echo Chamber: Disentangling network dynamics from polarization**
-   [[paper]](https://arxiv.org/abs/1906.09076)
-
+   [[paper]](https://arxiv.org/abs/1906.09076)  
+   エコーチェンバーは論争的なトピックに関する意見の分極化と同族性が同時に存在することで定義される．近年エコーチェンバーの検出が試みられているが，このような現象の出現に繋がるダイナミクスは不明である．本論文では時間的ネットワークアプローチを採用し，エコーチェンバー効果の強さを時間経過とともに測定する．
 ***
 
 - [ ] **Toward a Standard Approach for Echo Chamber Detection: Reddit Case Study**
