@@ -1,7 +1,6 @@
 # Research Papers
 ***
 ## Recommendation on Twitter
- - [ ]**Comment**
 
  - [x] **The effect of Collaborative-Filtering based Recommendation Algorithms on Opinion Polarization**  
    [[paper]](https://arxiv.org/abs/2303.13270)
