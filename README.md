@@ -25,8 +25,8 @@
 
  - [x] **On Practical Diversified Recommendation with Controllable Category Diversity Framework**  
    [[paper]](https://arxiv.org/abs/2402.03801)
-   [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=%22On+Practical+Diversified+Recommendation+with+Controllable+Category+Diversity+Framework%22&btnG=)  
-   [[code]](https://github.com/selous123/ccdf)
+   [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=%22On+Practical+Diversified+Recommendation+with+Controllable+Category+Diversity+Framework%22&btnG=)
+   [[code]](https://github.com/selous123/ccdf)  
    既存の多様化推薦はユーザの興味の範囲を出ていない．そこで，提案手法はN-diversityという新たな多様性を定義し，ユーザの行動履歴を用いたカテゴリ推薦を行うことにより，従来の多様性と新たな多様性の両方を向上させた．
  ***
 
