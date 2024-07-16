@@ -1,6 +1,34 @@
 # Research Papers
 ***
-## Recommendation on Twitter
+## Diversified Recommendation
+
+ - [x] ****  
+   [[paper]]()
+   [[google scholar]]()
+   [[code]]()
+ ***
+ 
+ - [x] **Federated Social Recommendation with Graph Neural Network**  
+   [[paper]](https://dl.acm.org/doi/full/10.1145/3501815)
+   [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=Federated+Social+Recommendation+with+Graph+Neural+Network&btnG=)
+ ***
+
+ - [x] **Heterophily-Aware Fair Recommendation using Graph Convolutional Networks**  
+   [[paper]](https://arxiv.org/abs/2402.03365)
+   [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=Heterophily-Aware+Fair+Recommendation+using+Graph+Convolutional+Networks&btnG=)
+ ***
+
+ - [x] **Towards Robust Fairness-aware Recommendation**  
+   [[paper]](https://dl.acm.org/doi/abs/10.1145/3604915.3608784)
+   [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=Towards+Robust+Fairness-aware+Recommendation&btnG=)
+ ***
+
+ - [x] **On Practical Diversified Recommendation with Controllable Category Diversity Framework**  
+   [[paper]](https://arxiv.org/abs/2402.03801)
+   [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=%22On+Practical+Diversified+Recommendation+with+Controllable+Category+Diversity+Framework%22&btnG=)  
+   [[code]](https://github.com/selous123/ccdf)
+   既存の多様化推薦はユーザの興味の範囲を出ていない．そこで，提案手法はN-diversityという新たな多様性を定義し，ユーザの行動履歴を用いたカテゴリ推薦を行うことにより，従来の多様性と新たな多様性の両方を向上させた．
+ ***
 
  - [x] **The effect of Collaborative-Filtering based Recommendation Algorithms on Opinion Polarization**  
    [[paper]](https://arxiv.org/abs/2303.13270)
@@ -28,7 +56,6 @@
 
 - [ ] **Tweets Classification and Sentiment Analysis for Personalized Tweets Recommendation**  
    [[paper]](https://www.hindawi.com/journals/complexity/2020/8892552/)
-   [[google scholar]]()
  ***
 
 ## Echo Chamber Detection
