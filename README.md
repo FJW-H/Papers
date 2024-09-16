@@ -7,6 +7,11 @@
    [[google scholar]]()
    [[code]]()
  ***
+  - [x] **Fairness and Diversity in Recommender Systems: A Survey**  
+   [[paper]](https://arxiv.org/abs/2307.04644v2)
+   [[google scholar]](https://scholar.google.co.jp/scholar?as_ylo=2024&q=Fairness+and+Diversity+in+Recommender+Systems:+A+Survey&hl=ja&as_sdt=0,5)
+   [[code]]()
+ ***
  - [x] **Federated Social Recommendation with Graph Neural Network**  
    [[paper]](https://dl.acm.org/doi/full/10.1145/3501815)
    [[google scholar]](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=Federated+Social+Recommendation+with+Graph+Neural+Network&btnG=)
